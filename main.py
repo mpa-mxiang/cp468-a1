@@ -9,6 +9,8 @@ def main():
     print("You choose {}-puzzle, now it is  time to create the puzzle for you...".format(puzzle_size))
     # create_puzzle(puzzle_size)
     print("Puzzle created...Show puzzle for you now...")
+    # a_star_search()
+    # heuristic()
 
 
 if __name__ == "__main__":
