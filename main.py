@@ -1,5 +1,3 @@
-
-
 def main():
     puzzle_size = int(input(
         "What size of puzzle you want to have? Enter 8, 15 or 24 Please: "))
